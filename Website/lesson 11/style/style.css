@@ -1,0 +1,37 @@
+.bosh{
+    margin-left: 300px;
+    width: 600px;
+    padding: 20px;
+}
+.pp{
+    margin-left: 360px;
+    color: var(--light-text-color, #FFF);
+    text-align: center;
+
+    /* btn-text */
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 200% */
+    letter-spacing: 0.2px;
+    background: var(--primary-color, rgb(10, 7, 165));
+    display: flex;
+    padding: 15px 40px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+p{
+    width: 400px;
+}
+.box{
+    background-color: orangered;
+    border-radius: 50%;
+}
+.dd{
+    display: flex;
+}
