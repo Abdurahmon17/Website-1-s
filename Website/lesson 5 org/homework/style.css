@@ -1,0 +1,59 @@
+.ll{
+    background-color: rgb(96, 96, 190);
+    padding: 100px;
+}
+
+span{
+    color: greenyellow;
+}
+hr{
+    height: 2px;
+    background-color: white;
+}
+.boxes{
+width: 90%;
+align-items: center;
+margin:0 auto;  
+margin-top:70px;
+display: flex;
+text-align: center;
+justify-content: space-between;
+/* background-color: beige; */
+}
+.box{
+    width: 25%;
+    height: 325px;  
+    margin-left: 30px;
+    padding: 10px 20px;
+    background-color: white;
+}
+img{
+    width: 80px;
+    height: 120px;
+    object-fit: contain;
+}
+h3{
+    color: red;
+}
+h5{
+    color: black;
+}
+hr{
+    margin-bottom: 0;
+}
+a{
+    color: orange;
+    width: 100%;
+}
+a:hover{
+    color: white;
+    background-color: aqua;
+    transition: 0.6s;
+    transition: 3s;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    margin-bottom: 0px;
+}
+
